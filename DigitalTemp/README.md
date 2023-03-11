@@ -1,3 +1,3 @@
 <picture>
-  <img alt="DigitalTemp" src="Sensor.PNG">
+  <img alt="DigitalTemp" src="sensor.PNG">
 </picture>
