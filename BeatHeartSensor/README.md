@@ -1,4 +1,4 @@
 
 <picture>
-  <img alt="BeatHeartSensor" src="./sensor.png">
+  <img alt="BeatHeartSensor" src="./Sensor.png">
 </picture>
